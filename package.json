@@ -1,7 +1,7 @@
 {
   "name": "orten-io-react-starter-simple",
   "version": "1.0.0",
-  "description": "Start your React project!",
+  "description": "Start EMIL!!! your React project!",
   "main": "src/index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server --progress --config webpack.config.development.js",
