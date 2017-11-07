@@ -1,7 +1,18 @@
 import React from 'react'
 
+import Header from '../Header'
+
 import './style.css'
 
-const App = () => <div className="text">It works!</div>
+class App extends React.Component {
+  render() {
+    return (
+      <div className="container">
+        <Header />
+        APP GOES HERE!
+      </div>
+    )
+  }
+}
 
 export default App
